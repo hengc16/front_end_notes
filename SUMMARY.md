@@ -15,4 +15,5 @@
 ## Vue
 
 * [hello world](vue/hello-world.md)
+* [模板语法](vue/mo-ban-yu-fa.md)
 
