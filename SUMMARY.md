@@ -14,8 +14,5 @@
 
 ## Vue
 
-* [get started](vue/get-started.md)
-* [Directives and attribute binding](vue/directives-and-attribute-binding.md)
-* [if and for](vue/if-and-for.md)
-* [event handling](vue/event-handling.md)
+* [hello world](vue/hello-world.md)
 
