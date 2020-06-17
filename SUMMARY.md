@@ -16,4 +16,5 @@
 
 * [hello world](vue/hello-world.md)
 * [模板语法](vue/mo-ban-yu-fa.md)
+* [计算属性（computed\) 和监视属性（watch）](vue/ji-suan-shu-xing-computed-he-jian-shi-shu-xing-watch.md)
 
