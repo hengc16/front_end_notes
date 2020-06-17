@@ -1,6 +1,6 @@
 # Grid
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ## container：
 
@@ -12,7 +12,7 @@ fr 更responsive
 
 grid-template-columns: 1fr, 1fr, 2fr. 
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### rows
 

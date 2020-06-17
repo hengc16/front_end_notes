@@ -15,4 +15,6 @@
 ## Vue
 
 * [get started](vue/get-started.md)
+* [Directives and attribute binding](vue/directives-and-attribute-binding.md)
+* [if and for](vue/if-and-for.md)
 
