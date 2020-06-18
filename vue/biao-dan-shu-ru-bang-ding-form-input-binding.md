@@ -14,7 +14,7 @@
 
 通过fill 这个form，点击注册，我希望可以生成我输入的所有信息，以便于以后发送ajax去后台。
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ```jsx
 <!DOCTYPE html>

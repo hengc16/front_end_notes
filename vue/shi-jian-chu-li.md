@@ -53,7 +53,7 @@ var example2 = new Vue({
   })
 ```
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
  如果不阻止时间冒泡的话，当你点击小的blue方块时，会触发test1，和test2 这2个事件。我们可以通过对test2这个事件添加stop这个修饰符来阻止时间冒泡。
 

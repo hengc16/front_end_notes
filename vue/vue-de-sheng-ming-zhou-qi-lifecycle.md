@@ -6,13 +6,13 @@ Vue的生命周期，为Vue实例从创建到销毁中间所发生的event。 �
 
 ### beforeCreated到Created生命周期
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 ### Created到beforeMount： 
 
 这里将template或目标的el的outerHTML作为模板存入内存，在内存进行解析，以便以后批量渲染。
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ### beforeMount 到mounted
 
@@ -22,11 +22,11 @@ Vue的生命周期，为Vue实例从创建到销毁中间所发生的event。 �
 
 
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 ### beforeDestroy到destroyed
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 
 
