@@ -1,4 +1,4 @@
-# 列表渲染
+# 列表渲染\(list rendering\)
 
 通过v-for 来遍历persons这个数组，并对其做修改。
 

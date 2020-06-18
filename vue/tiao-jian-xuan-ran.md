@@ -1,4 +1,4 @@
-# 条件渲染
+# 条件渲染\(conditional rendering\)
 
 ### 理解v-if v-else-if v-else  和v-show的区别
 

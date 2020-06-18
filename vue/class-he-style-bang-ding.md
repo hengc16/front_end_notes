@@ -1,4 +1,4 @@
-# class 和style绑定
+# class 和style绑定\(class and style binding\)
 
 ```javascript
 <!DOCTYPE html>
