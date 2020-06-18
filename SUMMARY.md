@@ -21,6 +21,7 @@
 * [条件渲染](vue/tiao-jian-xuan-ran.md)
 * [列表渲染](vue/lie-biao-xuan-ran.md)
 * [数据更新检测](vue/shu-ju-geng-xin-jian-ce.md)
+* [事件处理](vue/shi-jian-chu-li.md)
 
 ## babel
 
