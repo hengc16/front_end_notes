@@ -22,3 +22,7 @@
 * [列表渲染](vue/lie-biao-xuan-ran.md)
 * [数据更新检测](vue/shu-ju-geng-xin-jian-ce.md)
 
+## babel
+
+* [setup](babel/setup.md)
+
