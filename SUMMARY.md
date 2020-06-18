@@ -23,6 +23,7 @@
 * [数据更新检测](vue/shu-ju-geng-xin-jian-ce.md)
 * [事件处理\(event handling）](vue/shi-jian-chu-li.md)
 * [表单输入绑定\(form input binding\)](vue/biao-dan-shu-ru-bang-ding-form-input-binding.md)
+* [Vue的生命周期（lifeCycle）](vue/vue-de-sheng-ming-zhou-qi-lifecycle.md)
 
 ## babel
 
