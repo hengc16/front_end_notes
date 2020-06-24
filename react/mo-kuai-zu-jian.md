@@ -22,7 +22,7 @@ component， 通过组件来合成一个界面，如header，nav， cover，main
 
 * **定义组件：**
 
-  * 工场函数组件\(简单组件）
+  * 工场函数组件\(简单组件）：没有状态的组件。
 
 ```jsx
 <script type="text/babel">
