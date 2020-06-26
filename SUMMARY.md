@@ -39,4 +39,5 @@
 * [模块&组件](react/mo-kuai-zu-jian.md)
 * [组件3大属性-state](react/zu-jian-3-da-shu-xing-state.md)
 * [组件的三大属性：props](react/untitled.md)
+* [组件的3大属性: refs](react/zu-jian-de-3-da-shu-xing-refs.md)
 
