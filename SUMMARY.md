@@ -40,4 +40,5 @@
 * [组件3大属性-state](react/zu-jian-3-da-shu-xing-state.md)
 * [组件的三大属性：props](react/untitled.md)
 * [组件的3大属性: refs](react/zu-jian-de-3-da-shu-xing-refs.md)
+* [component composing 多个组件组合](react/component-composing-duo-ge-zu-jian-zu-he.md)
 
