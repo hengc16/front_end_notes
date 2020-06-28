@@ -14,3 +14,72 @@
    1. 动态组件的初始化数据
    2. 交互功能（即绑定监听）
 
+### 实现静态组件：
+
+```jsx
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <div id ="container1"></div>
+
+
+
+<script src="../js_link/react.development.js"></script>
+<script src="../js_link/react-dom.development.js"></script>
+<script src="../js_link/babel.min.js"></script>
+<script type="text/babel">
+    //1.定义组件
+    class App extends React.Component{
+        render(){
+            return (
+                <div>
+                    <h1> todo list </h1>
+                    <Add></Add>
+                    <List></List>
+                </div>
+            )
+        }
+    }
+    
+    //b. 子类组件
+    class Add extends React.Component{
+        render(){
+            return (
+                <div> 
+                   <input type="text"/>
+                   <button>add</button> 
+                </div>
+            )
+        }
+    }
+    class List extends React.Component{
+        render(){
+            return (
+                <div>
+                    <ul>
+                        <li>xxx</li>
+                        <li>xxx</li>
+                    </ul>
+                </div>
+            )
+        }
+    }
+    //2. 渲染组件
+    ReactDOM.render(<App/>, document.getElementById('container1'));
+</script>
+</body>
+</html>
+```
+
+### 实现动态组件：
+
+先实现初始化数据再交互。
+
+
+
