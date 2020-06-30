@@ -19,6 +19,15 @@ render(){
 
 ### 实现数据初始化
 
+```text
+constructor (props) {
+    super(props)
+    this.state = {
+        data: [1,2,3]
+    }
+}
+```
+
 * 初始化要在哪个组件里进行。
 * 涉及到组件之间传值，传函数
 * 每当从父组件拿值拿函数时， 要做propType的检查。而且要知道，你拿来的值是存在this.props里的。
