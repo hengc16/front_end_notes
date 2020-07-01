@@ -42,4 +42,5 @@
 * [组件的3大属性: refs](react/zu-jian-de-3-da-shu-xing-refs.md)
 * [component composing 多个组件组合](react/component-composing-duo-ge-zu-jian-zu-he.md)
 * [组件流程总结](react/zu-jian-liu-cheng-zong-jie.md)
+* [收集表单数据（form）](react/shou-ji-biao-dan-shu-ju-form.md)
 
