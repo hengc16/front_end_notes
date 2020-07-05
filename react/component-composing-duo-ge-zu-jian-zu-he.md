@@ -266,6 +266,7 @@
     }
 
     //定义list 子组件
+    // react 要给像li这种多个重复list加key 为了做diff算法。
     class TodoList extends React.Component{
         render(){
             const {todos} = this.props

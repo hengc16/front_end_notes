@@ -38,5 +38,14 @@ constructor (props) {
 * 注意对新增函数的this 进行组件对象bind
 * 状态更新必须通过setState\(\)这个函数来更新
 
+### c-p 数据传递
+
+* 在父组件设个key，传递一个回调函数。
+* 父组件中定义回调函数。
+
+遍历用map
+
+删除用filter
+
 
 

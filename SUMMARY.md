@@ -43,4 +43,5 @@
 * [component composing 多个组件组合](react/component-composing-duo-ge-zu-jian-zu-he.md)
 * [组件流程总结](react/zu-jian-liu-cheng-zong-jie.md)
 * [收集表单数据（form）](react/shou-ji-biao-dan-shu-ju-form.md)
+* [lifeCycles](react/lifecycles.md)
 
