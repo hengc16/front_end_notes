@@ -34,6 +34,7 @@
 ## React
 
 * [React介绍](react/react-jie-shao.md)
+* [用react脚手架来自动建项目](react/yong-react-jiao-shou-jia-lai-zi-dong-jian-xiang-mu.md)
 * [hello\_world](react/hello_world.md)
 * [实现动态展示列表数据](react/shi-xian-dong-tai-zhan-shi-lie-biao-shu-ju.md)
 * [模块&组件](react/mo-kuai-zu-jian.md)
