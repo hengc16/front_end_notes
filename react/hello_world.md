@@ -7,6 +7,7 @@
 5. 用jsx来创建虚拟dom，如 var vDom = &lt;h1 id={myId}&gt; {myMsg} &lt;/h1&gt;
    1. 这里{}来绑定之前设置的var，var可以被动态改变
 6. 使用ReactDOM.render\(vDom, document.getElementById\("id"\)\)来渲染创建的虚拟DOM。
+7. 一个js元素，只能要又一个父组件包裹，不能出现2个同级，如果&lt;h1&gt;hello&lt;/h1&gt; &lt;span&gt;world&lt;/span&gt;
 
 ```jsx
 <!DOCTYPE html>
