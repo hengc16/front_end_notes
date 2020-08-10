@@ -12,8 +12,10 @@
 
 
 
-### react高效的原因：
+### react优点：
 
+* jsx执行更快，编译为js代码是进行了优化
+* 类型更安全，出错就不能编辑。
 * 虚拟DOM, 不总是直接造作DOM
 * DOM diff 算法， 实现最小化rerender界面功能。
 
@@ -23,5 +25,8 @@
 * react-dom.js ： 提供操作DOM的react扩展库
 * babel.min.js : 解析jsx语法代码转为纯js语法代码库，包括es6转es5。
 
+### 注意：
 
+* jsx必须要有根节点
+* 不同html元素要小写， 如果是组件，就要大写首字母。
 
