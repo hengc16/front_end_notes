@@ -29,6 +29,17 @@ ReactDOM.render(
 );
 ```
 
+```jsx
+let classNameList = ['redbg', 'strong'].join(" ");
+let element = (
+    <div>
+        <h1 className = {classNameList} >hello world</h1>
+    </div>
+)
+//注意jsx里给tag加class 需要使用className
+//如果一个tag有多个class name， 可以使用数组.join 空格来加入
+```
+
 ### 注释
 
 ```jsx

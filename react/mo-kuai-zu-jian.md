@@ -65,6 +65,8 @@ component， 通过组件来合成一个界面，如header，nav， cover，main
     //b. ES6类组件
     //创建component instance去调用render函数。
     class MyComponent2 extends React.Component{
+        //如果我们像函数组件一样 有props的参数， 你会发现this里面也有个props
+        console.log(this);
         render(){
             return <h2> ES6类组件</h2>;
         }
@@ -77,5 +79,10 @@ component， 通过组件来合成一个界面，如header，nav， cover，main
 </html>
 ```
 
-* **渲染组件标签：**
+**类组件和函数组件的区别：**
+
+* 函数里面不方便写函数
+  * 函数时stateless的
+* 类里面很方便handle事件，写一些函数
+  * 类是有state 和生命周期的
 
