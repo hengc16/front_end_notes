@@ -47,4 +47,7 @@
 * [组件流程总结](react/zu-jian-liu-cheng-zong-jie.md)
 * [收集表单数据（form）](react/shou-ji-biao-dan-shu-ju-form.md)
 * [lifeCycles](react/lifecycles.md)
+* [React 插槽](react/react-cha-cao.md)
+* [react 路由](react/react-lu-you.md)
+* [redux](react/redux.md)
 
