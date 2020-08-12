@@ -50,4 +50,5 @@
 * [React 插槽](react/react-cha-cao.md)
 * [react 路由](react/react-lu-you.md)
 * [redux](react/redux.md)
+* [react-redux](react/react-redux.md)
 
