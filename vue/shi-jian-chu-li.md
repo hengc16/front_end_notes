@@ -2,6 +2,13 @@
 
 通常是用v-on 来对dom事件进行监听， 触发时运行相关js代码。
 
+* v-on:click ="greet"  or @click = "greet"
+* v-on: click.stop : 阻止冒泡
+* v-on: click.stop.prevent: 阻止default行为。
+* v-on: click.self 给这个div本身绑定事件，对他的子元素进行点击是没有用的。
+* v-on: click.once 给这个事件绑定一次，如这个按钮点击一次后就不能点击了。
+* v-on: keyup.enter   或tab , delete , esc  有别于传统开发，这里不需要去查对应的keycode，可以直接监听并触发事件。
+
 但是当事件处理逻辑变的复杂，我们就不能将js代码写在v-on指令中了，我们可以让v-on去调用一个函数。
 
 ```jsx

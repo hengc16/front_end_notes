@@ -68,3 +68,9 @@ new Vue({
 })
 ```
 
+### 三元表达式：
+
+```javascript
+{{ok? "yes" : "no"}}
+```
+
