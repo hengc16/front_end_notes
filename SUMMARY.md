@@ -25,6 +25,7 @@
 * [表单输入绑定\(form input binding\)](vue/biao-dan-shu-ru-bang-ding-form-input-binding.md)
 * [Vue组件 父到子](vue/vue-zu-jian-fu-dao-zi.md)
 * [子组件传父组件](vue/zi-zu-jian-chuan-fu-zu-jian.md)
+* [router 路由](vue/router-lu-you.md)
 * [Vue的生命周期（lifeCycle）](vue/vue-de-sheng-ming-zhou-qi-lifecycle.md)
 * [过渡&动画](vue/guo-du-dong-hua.md)
 * [常用内置指令&自定义指令](vue/chang-yong-nei-zhi-zhi-ling-zi-ding-yi-zhi-ling.md)
