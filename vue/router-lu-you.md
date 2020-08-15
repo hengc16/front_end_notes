@@ -42,15 +42,15 @@ mode: 'history'
 * 二级路由
 * 子组件 array
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 注意要写全，并且跟子路由的path匹配
 
 ### 编程式路由
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 * 注意$router 和$route的区别
 * query 和 params的区别
@@ -63,7 +63,7 @@ mode: 'history'
 
 
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 不经常用， 因为可以自己切分。
 

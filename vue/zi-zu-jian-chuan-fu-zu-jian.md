@@ -72,7 +72,7 @@ export default {
 
 通过$emit\(\) 来调用父组件的method，从而实现子传父
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 实现了双向同步。
 
