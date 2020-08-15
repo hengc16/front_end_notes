@@ -56,6 +56,16 @@ mode: 'history'
 * query 和 params的区别
 * query拿取 name?a= 123 
 * params拿取router传递的 goods/:goodsId 里的goodsId
-* 
-命名路由和命名视图
+
+
+
+### 命名路由和命名视图
+
+
+
+![](../.gitbook/assets/image%20%2869%29.png)
+
+不经常用， 因为可以自己切分。
+
+
 
