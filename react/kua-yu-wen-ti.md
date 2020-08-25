@@ -60,3 +60,10 @@
 * 不需要前端
 * 都是服务器部署
 
+### 其他方法：
+
+* **用iframe**
+  * iframe里的contentwindow.postMessage（）发请求
+  * 用window.onmessage（ev） 接收请求
+  * 用ev.source.postMessage\(ev.data + '@@@' , ev.origin\) 来发请求。
+* 
