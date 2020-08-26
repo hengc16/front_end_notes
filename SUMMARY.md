@@ -60,5 +60,6 @@
 ## webpack
 
 * [介绍](webpack/jie-shao.md)
-* [配置](webpack/pei-zhi.md)
+* [根据配置打包](webpack/pei-zhi.md)
+* [loader](webpack/loader.md)
 
