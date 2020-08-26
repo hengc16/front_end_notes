@@ -34,6 +34,7 @@
 ## tools
 
 * [babel](tools/setup.md)
+* [axios](tools/axios.md)
 
 ## React
 
