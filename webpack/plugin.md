@@ -12,7 +12,7 @@
 
 在module里配置plugin
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 打包：
 
