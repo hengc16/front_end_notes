@@ -31,9 +31,9 @@
 * [过渡&动画](vue/guo-du-dong-hua.md)
 * [常用内置指令&自定义指令](vue/chang-yong-nei-zhi-zhi-ling-zi-ding-yi-zhi-ling.md)
 
-## babel
+## tools
 
-* [setup](babel/setup.md)
+* [babel](tools/setup.md)
 
 ## React
 
