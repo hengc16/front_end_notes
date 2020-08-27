@@ -15,6 +15,7 @@
 ## Vue
 
 * [hello world](vue/hello-world.md)
+* [babel](vue/setup.md)
 * [模板语法\(template syntax\)](vue/mo-ban-yu-fa.md)
 * [计算属性（computed\) 和监视属性（watch）](vue/ji-suan-shu-xing-computed-he-jian-shi-shu-xing-watch.md)
 * [class 和style绑定\(class and style binding\)](vue/class-he-style-bang-ding.md)
@@ -31,10 +32,9 @@
 * [过渡&动画](vue/guo-du-dong-hua.md)
 * [常用内置指令&自定义指令](vue/chang-yong-nei-zhi-zhi-ling-zi-ding-yi-zhi-ling.md)
 
-## tools
+## axios
 
-* [babel](tools/setup.md)
-* [axios](tools/axios.md)
+* [HTTP 相关](axios/axios.md)
 
 ## React
 
