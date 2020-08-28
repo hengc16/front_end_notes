@@ -10,7 +10,7 @@
 
 假如数据库长这样
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 我们对外暴露的api为
 
@@ -24,11 +24,11 @@
 
 ### 用axios去测试rest api 的crud
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
