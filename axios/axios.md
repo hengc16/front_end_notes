@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/image%20%2893%29.png)
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 ### 请求报文：
 
@@ -37,7 +37,7 @@ get是没有请求体的，只有post有
 
 * status, status text  200， 404， 500 .。。
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 **多个响应头：**
 
