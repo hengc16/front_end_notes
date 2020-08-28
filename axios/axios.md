@@ -2,9 +2,9 @@
 
 ### HTTP：
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 ### 请求报文：
 
@@ -17,7 +17,7 @@
 
 * 请求头的信息都是浏览器交给服务器去用的。
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 **3。请求体：**
 
@@ -37,15 +37,17 @@ get是没有请求体的，只有post有
 
 * status, status text  200， 404， 500 .。。
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 **多个响应头：**
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2891%29.png)
 
 **响应体：**
 
 * html 文本/json / js/ css/img。。。
 
+### API分类：
 
+![](../.gitbook/assets/image%20%2886%29.png)
 
