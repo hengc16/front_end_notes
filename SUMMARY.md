@@ -39,6 +39,7 @@
 * [XHR](axios/xhr.md)
 * [axios](axios/axios-1.md)
 * [难点语法](axios/nan-dian-yu-fa.md)
+* [拦截器](axios/lan-jie-qi.md)
 
 ## React
 
