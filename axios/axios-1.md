@@ -1,6 +1,6 @@
 # axios
 
-![](../.gitbook/assets/image%20%28111%29.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
 注意请求/响应拦截器， intercept request and response
 
@@ -20,5 +20,5 @@
 
 ![](../.gitbook/assets/image%20%28110%29.png)
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 

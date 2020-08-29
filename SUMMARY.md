@@ -40,6 +40,7 @@
 * [axios](axios/axios-1.md)
 * [难点语法](axios/nan-dian-yu-fa.md)
 * [拦截器](axios/lan-jie-qi.md)
+* [取消请求](axios/qu-xiao-qing-qiu.md)
 
 ## React
 
