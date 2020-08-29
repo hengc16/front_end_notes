@@ -37,6 +37,7 @@
 * [HTTP 相关](axios/axios.md)
 * [json-server](axios/json-server.md)
 * [XHR](axios/xhr.md)
+* [axios](axios/axios-1.md)
 
 ## React
 
