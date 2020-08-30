@@ -42,6 +42,7 @@
 * [拦截器](axios/lan-jie-qi.md)
 * [取消请求](axios/qu-xiao-qing-qiu.md)
 * [axios源码](axios/axios-yuan-ma.md)
+* [源码分析](axios/yuan-ma-fen-xi.md)
 
 ## React
 

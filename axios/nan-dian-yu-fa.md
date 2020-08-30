@@ -1,6 +1,6 @@
 # 难点语法
 
-![](../.gitbook/assets/image%20%28109%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 axios的2次封装：
 
