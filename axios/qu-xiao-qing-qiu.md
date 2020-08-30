@@ -53,13 +53,13 @@ cancel();
 
 这里我们主要用第2种方法：
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 对于上面发请求，我们可以在config里去配置cancelToken来对一个global variable赋予它cancel函数的回调功能。
 
 在拿到请求或取消成功，都把cancel清空。
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 这里可以通过调用cancel来取消响应的。 如果请求还没发送时，concel函数为空，一但发送了请求， cancel将被赋值为函数形式，这时候就可以调用它来取消请求。
 

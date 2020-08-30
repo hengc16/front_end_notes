@@ -1,6 +1,6 @@
 # axios
 
-![](../.gitbook/assets/image%20%28115%29.png)
+![](../.gitbook/assets/image%20%28117%29.png)
 
 注意请求/响应拦截器， intercept request and response
 
@@ -16,9 +16,9 @@
 * 也可以作为对象来被调用，如axios.get\(url,\[config\]\) 
   * 这种其实是为了方便，axios做了一层封装，也叫函数糖，语法糖。
 
-![](../.gitbook/assets/image%20%28112%29.png)
-
 ![](../.gitbook/assets/image%20%28113%29.png)
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
+
+![](../.gitbook/assets/image%20%28118%29.png)
 
