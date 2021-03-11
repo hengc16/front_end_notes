@@ -72,4 +72,9 @@ ReactDOM.render(
 * jsx里样式的类名指定不要用class， 要用className
 * 内联样式要用style = {{key:value}} 的形式去写
   * &lt;span style = {{color: 'white', fontSize: '29'}} &gt;&lt;/span&gt;
+* 虚拟dom必须只有一个根标签
+* 标签必须闭合
+* 标签首字母
+  * 小写字母开头，则将该标签转为html中同名元素，若html中无该标签对应的元素，则报错。
+  * 若大写字母开头，reat就会去渲染对应的组件，如果组件不存在，则报错。
 
