@@ -65,3 +65,11 @@ ReactDOM.render(
 );
 ```
 
+### jsx 语法规则
+
+* 定义虚拟dom时，不要用引号
+* 标签中混入js表达式时用{}
+* jsx里样式的类名指定不要用class， 要用className
+* 内联样式要用style = {{key:value}} 的形式去写
+  * &lt;span style = {{color: 'white', fontSize: '29'}} &gt;&lt;/span&gt;
+
